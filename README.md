@@ -1,15 +1,10 @@
 # Site SCE Engenharia
 Site produzido para o projeto final da matéria de desenvolvimento WEB.
 
-
-
-
 **Curso:** Análise e Desenvolvimento de Sistemas
 
 **Insituição:** IFSP
 
 **Semestre:** 1º Semestre
-
-**Matéria:** Desenvolvimento WEB
 
 **Tecnologias:** HTML5, CSS3, JavaScript
