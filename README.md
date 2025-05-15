@@ -8,3 +8,5 @@ Site produzido para o projeto final da matéria de desenvolvimento WEB.
 **Semestre:** 1º Semestre
 
 **Tecnologias:** HTML5, CSS3, JavaScript
+
+**Obs:** Não estou mais na instituição
